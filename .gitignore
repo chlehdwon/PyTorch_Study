@@ -1,3 +1,5 @@
 MNIST
 logs
 lightning_logs
+*.tar.gz
+cifar-10-batches-py
